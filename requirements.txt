@@ -1,0 +1,16 @@
+streamlit
+python-dotenv
+ipykernel
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-google-genai
+sentence_transformers
+langchain_huggingface
+pypdf
+arxiv
+pymupdf
+pyPDF2
+faiss-cpu
+
